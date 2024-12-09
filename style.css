@@ -1,0 +1,170 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(to bottom, #ebe9a6, #faecc4);
+    color: #333;
+    text-align: center;
+}
+
+.container {
+    margin: 100px auto;
+    max-width: 300px;
+    background: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+h1 {
+    font-size: 2.5rem;
+    color: #ff6b6b;
+}
+
+p {
+    font-size: 1.2rem;
+    line-height: 1.8;
+    color: #883030;
+}
+
+.image {
+    width: 100%;
+    height: auto;
+    margin: 20px 0;
+    border-radius: 20px;
+}
+
+.button {
+    display: inline-block;
+    padding: 10px 20px;
+    background: #ff6b6b;
+    color: #fff;
+    text-decoration: none;
+    font-size: 1rem;
+    border-radius: 5px;
+    transition: 0.3s;
+}
+
+.button:hover {
+    background: #ff4a4a;
+}
+/* General Styles */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Arial', sans-serif;
+    background: linear-gradient(to bottom, #fcf7d2, #f8f7ba);
+    color: #333;
+    text-align: center;
+}
+
+/* Full Page Layout */
+.full-page {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    min-height: 100vh;
+    padding: 20px;
+}
+
+/* Header Section */
+header {
+    margin-top: 20px;
+}
+
+header h1 {
+    font-size: 2.5rem;
+    color: #ff6b6b;
+}
+
+header p {
+    font-size: 1.2rem;
+    margin-top: 10px;
+}
+
+/* Gallery Section */
+.gallery {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    margin: 20px 0;
+}
+
+.gallery img {
+    width: 150px;
+    height: 150px;
+    border-radius: 15px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s;
+}
+
+.gallery img:hover {
+    transform: scale(1.1);
+}
+/* Question Section */
+.question-section {
+    margin: 20px 0;
+}
+
+.question-section h2 {
+    font-size: 1.5rem;
+    color: #ff6b6b;
+}
+/* Reset some basic styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+/* Body - General Styles */
+body {
+    font-family: 'Arial', sans-serif;
+    color: #333;
+    text-align: center;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    overflow: hidden;
+}
+
+/* Background Gradient */
+body {
+    background: linear-gradient(to bottom, #f8efba, #f9fac4); /* You can change this as per your preference */
+}
+
+/* Container - General Page Container */
+.container {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 20px;
+    text-align: center;
+}
+
+/* Header */
+header {
+    margin-top: 30px;
+}
+
+header h1 {
+    font-size: 3rem;
+    color: #ff6b6b;
+    text-shadow: 3px 3px 6px rgba(0, 0, 0, 0.2);
+    margin-bottom: 10px;
+}
+
+header p {
+    font-size: 1.5rem;
+    color: #333;
+    margin-top: 5px;
+    font-style: italic;
+}
+
+/* Image Section
+
+
